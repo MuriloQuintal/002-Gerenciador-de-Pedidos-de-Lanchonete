@@ -1,0 +1,23 @@
+{
+  "name": "002-gerenciador-de-pedidos-de-lanchonete",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuriloQuintal/002-Gerenciador-de-Pedidos-de-Lanchonete.git"
+  },
+  "keywords": [],
+  "author": "Murilo Quintal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuriloQuintal/002-Gerenciador-de-Pedidos-de-Lanchonete/issues"
+  },
+  "homepage": "https://github.com/MuriloQuintal/002-Gerenciador-de-Pedidos-de-Lanchonete#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
